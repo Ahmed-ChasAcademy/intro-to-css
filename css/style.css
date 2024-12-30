@@ -1,0 +1,24 @@
+/* Elementselektorn */
+body {
+    background-color: #075ff0;
+    color: #ff999b;
+}
+
+/* Gruppselektorn */
+h1, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Arvselektorn */
+ul li {
+    text-decoration: underline;
+}
+
+/* Klasselektorn */
+.heading {
+    font-size: 36px;
+}
+
+.text {
+    font-weight: 800;
+}
